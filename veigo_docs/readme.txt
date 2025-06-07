@@ -1,0 +1,1 @@
+Kurulum icin: APK'yi cihaza kurun. Vercel veya GetUp kullanarak paneli yayinlayin.
